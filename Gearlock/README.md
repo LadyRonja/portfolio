@@ -1,12 +1,20 @@
 # About
-(Game description)
-(full repo link)
-(itch link)
+// Description
+
+Repository: [Link]
+Itch: [Link]
 
 # My Responsibilities
-Pathfinding (link code)
-Card Mechanical structure (link code)
-AI Behaivour (link code)
+<b>Pathfinding </b> 
+// Description
+[Code Foldout]
+
+<b>Card Mechanical structure </b> 
+// Description
+[Code Foldout]
+
+- I also worked with
+AI Behaivour 
 Audio Manager
 Camera Manager
 
