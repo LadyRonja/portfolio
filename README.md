@@ -5,13 +5,13 @@ It is a living document and will be updated and trimmed when relevant.
 
 # Games I've Worked on
 
-## <a  href="https://github.com/LadyRonja/portfolio/tree/main/Mash-Off%20-%20Monster%20Rumble" target="_blank"> Mash-Off: Monster Rumble </a> ← Click to see more
+## [Mash-Off: Monster Rumble](https://github.com/LadyRonja/portfolio/tree/main/Mash-Off%20-%20Monster%20Rumble) ← Click to see more
 
  <img src="images\mash-off-monsterrumble_logo.png" alt="Logo for Mash-Off: Monster Rumble" width=75%>
 
 MASH-OFF: Monster Rumble is a local multiplayer twinstick party game about knocking your opponents out of an arena using various cartoony weapons while they try to do the same to you.
 
-## [Gearlock](https://github.com/LadyRonja/portfolio/tree/main/Gearlock){:target="_blank"} ← Click to see more
+## [Gearlock](https://github.com/LadyRonja/portfolio/tree/main/Gearlock) ← Click to see more
 
  <img src="images\gearlock_logo.png" alt="Logo for Gearlock" width=75%>
 
