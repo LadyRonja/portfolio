@@ -10,14 +10,14 @@ Itch: [<a href="https://yrgo-game-creator.itch.io/gearlock">Link</a>]
 
 # My Responsibilities
 
-<b>Pathfinding </b> 
+## <b>Pathfinding </b> 
 
 The pathfinding system is at its core A* with additional options such as "can walk through walls", "can walk through characthers", and "path must be X amount of tiles away or shorter."
 
 Click the dropdown below for the full script.
 
 <details>
-<summary>Pathfinding</summary>
+<summary>Pathfinding.cs</summary>
 
  ```csharp
 using System.Collections;
@@ -178,7 +178,7 @@ public class Pathfinding : MonoBehaviour
 </details>
 
 
-<b>Card Mechanical structure </b> 
+## <b>Card Mechanical structure </b> 
 
 Once a player has selected a card they wish to play, some variables must be selected by the player and then verified if they are legal.
 
@@ -190,7 +190,7 @@ Repeat the above process to check if where they wish to play the card is legal, 
 
 Once fully legal choices has been made code associated with the specific card is executed, being sent the relevant data of the choices.
 
-[Card flowchart Image here]
+ <img src="images\CardLogicFlowchart.png" alt="Flowchart depicting the logic flow from selecting to using a card" width=30%>
 
 Click the dropdown below for the full script.
 
@@ -729,12 +729,21 @@ public static class CardTargetFinder
 
 </details>
 
-<b> I also worked with </b>
+## I also worked with
   
-AI Behaivour
+<b>AI Behaivour </b>
 
-Audio Manager
+During the AIs turn it cycles through all enemy units and locates the closest player unit, moves it closer towards that player, and attacks if in range.
 
-Camera Manager
 
+<b>Audio Manager </b>
+
+Objectpooling AudioSoruces to frontload the resource allocation. Updates each source when audio settings are updated.
+
+
+<b>Camera Manager </b>
+
+The player can move the camera using either WASD, or by holding down the mouse wheel and draggin the mouse.
+
+The camera will automatically move to each "targeted" unit unless the player has specifically moved the camera.
 
