@@ -19,7 +19,7 @@ Gearlock is a singleplayer tactical push-your-luck game with deckbuilding elemen
 As the player, your goal is to beat a level by defeating all enemies in the level. 
 You will be using card actions to make robots do things like fighting, throwing explosives, and digging out new cards
 
-## [I Cast Fireball](https://github.com/LadyRonja/portfolio/tree/main/I%20Cast%20Fireball){:target="_blank"} ← Click to see more
+## [I Cast Fireball](https://github.com/LadyRonja/portfolio/tree/main/I%20Cast%20Fireball) ← Click to see more
 
  <img src="images\ICF_logo.png" alt="Logo for I Cast Fireball" width=75%>
 
@@ -28,8 +28,6 @@ I Cast Fireball is anasyncronous online multiplayer game based on Rock-Paper-Sci
 The multiplayer aspect is achieved using the authorization and database cloudservices accessile via Firebase.
 
 A user must create an account to play, and one must know the username of their desired opponent (no matchmaking), one can create as many games as one wishes and load in and play them asyncrounsly at any time (similar to Wordfeud).
-
-
 
 
 
