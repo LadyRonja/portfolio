@@ -14,7 +14,7 @@ Itch: [<a href="https://yrgo-game-creator.itch.io/gearlock">Link</a>]
 
 The pathfinding system is at its core A* with additional options such as "can walk through walls", "can walk through characthers", and "path must be X amount of tiles away or shorter."
 
-Click the dropdown below for the full script.
+<i>Click the dropdown below for the full script.</i>
 
 <details>
 <summary>Pathfinding.cs</summary>
@@ -192,7 +192,7 @@ Once fully legal choices has been made code associated with the specific card is
 
  <img src="images\CardLogicFlowchart.png" alt="Flowchart depicting the logic flow from selecting to using a card" width=30%>
 
-Click the dropdown below for the full script.
+<i>Click the dropdown below for the full script.</i>
 
 <details>
 <summary>Card.cs</summary>
