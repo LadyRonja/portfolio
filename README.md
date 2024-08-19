@@ -5,22 +5,23 @@ It is a living document and will be updated and trimmed when relevant.
 
 # Games I've Worked on
 
-## Mash-Off: Monster Rumble
+## <a  href="https://github.com/LadyRonja/portfolio/tree/main/Mash-Off%20-%20Monster%20Rumble" target="_blank"> Mash-Off: Monster Rumble </a> ← Click to see more
+
+ <img src="images\mash-off-monsterrumble_logo.png" alt="Logo for Mash-Off: Monster Rumble" width=75%>
 
 MASH-OFF: Monster Rumble is a local multiplayer twinstick party game about knocking your opponents out of an arena using various cartoony weapons while they try to do the same to you.
 
-[Click Here](https://github.com/LadyRonja/portfolio/tree/main/Mash-Off%20-%20Monster%20Rumble) to read more about Mash-Off: Monster Rumble
+## [Gearlock](https://github.com/LadyRonja/portfolio/tree/main/Gearlock){:target="_blank"} ← Click to see more
 
-## Gearlock
+ <img src="images\gearlock_logo.png" alt="Logo for Gearlock" width=75%>
 
 Gearlock is a singleplayer tactical push-your-luck game with deckbuilding elements.
 As the player, your goal is to beat a level by defeating all enemies in the level. 
 You will be using card actions to make robots do things like fighting, throwing explosives, and digging out new cards
 
+## [I Cast Fireball](https://github.com/LadyRonja/portfolio/tree/main/I%20Cast%20Fireball){:target="_blank"} ← Click to see more
 
-[Click Here](https://github.com/LadyRonja/portfolio/tree/main/Gearlock) to read more about Gearlock
-
-## I Cast Fireball
+ <img src="images\ICF_logo.png" alt="Logo for I Cast Fireball" width=75%>
 
 I Cast Fireball is anasyncronous online multiplayer game based on Rock-Paper-Scissors, with the addition of Fireball and Counterspell. Fireball wins against everything except for Counterspell, and Counterspell loses to everything except for Fireball.
 
@@ -29,5 +30,11 @@ The multiplayer aspect is achieved using the authorization and database cloudser
 A user must create an account to play, and one must know the username of their desired opponent (no matchmaking), one can create as many games as one wishes and load in and play them asyncrounsly at any time (similar to Wordfeud).
 
 
-[Click Here](https://github.com/LadyRonja/portfolio/tree/main/I%20Cast%20Fireball) to read more about I Cast Fireball
+
+
+
+
+
+
+
 
