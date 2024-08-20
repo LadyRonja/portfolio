@@ -1,7 +1,9 @@
-# Portfolio
-This is a compalition, or portfolio if you will, showcasing code and growth from various projects.
+# Welcome!
 
-It is a living document and will be updated and trimmed when relevant.
+My name is Ronja and this is my living portfolio. I update and trim this as needed when I complete new projects and feel I've grown old ones.
+
+Each major project has a link to its own page where you can read more and see code examples of my primary responsibilities for that project.
+
 
 # Games I've Worked on
 
