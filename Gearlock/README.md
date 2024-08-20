@@ -1,6 +1,6 @@
 # About
 
- <img src="images\gearlock_logo.png" alt="Gif showing a functional A* algorithm in a hex based grid" width=50%>
+ <img src="images\gearlock_logo.png" alt="Gearlock logo, a wooden sign with the name in metalic lettering" width=50%>
  
 Gearlock is a singleplayer tactical push-your-luck game with deckbuilding elements.
 As the player, your goal is to beat a level by defeating all enemies in the level. 
