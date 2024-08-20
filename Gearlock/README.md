@@ -752,3 +752,6 @@ The player can move the camera using either WASD, or by holding down the mouse w
 
 The camera will automatically move to each "targeted" unit unless the player has specifically moved the camera.
 
+
+## [Back to Main Page](https://github.com/LadyRonja/portfolio/blob/main/README.md)
+
