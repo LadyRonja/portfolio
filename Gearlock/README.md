@@ -1,4 +1,7 @@
 # About
+
+ <img src="images\gearlock_logo.png" alt="Gif showing a functional A* algorithm in a hex based grid" width=50%>
+ 
 Gearlock is a singleplayer tactical push-your-luck game with deckbuilding elements.
 As the player, your goal is to beat a level by defeating all enemies in the level. 
 You will be using card actions to make robots do things like fighting, throwing explosives, and digging out new cards
@@ -13,6 +16,8 @@ Itch: [<a href="https://yrgo-game-creator.itch.io/gearlock">Link</a>]
 ## <b>Pathfinding </b> 
 
 The pathfinding system is at its core A* with additional options such as "can walk through walls", "can walk through characthers", and "path must be X amount of tiles away or shorter."
+
+ <img src="images\pathfinding.gif" alt="Gif showing a functional A* algorithm in a hex based grid" width=100%>
 
 <i>Click the dropdown below for the full script.</i>
 
