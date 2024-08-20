@@ -1,4 +1,7 @@
 # About
+
+ <img src="images\mash-off-monsterrumble_logo.png" alt="Logo for Mash-Off: Monster Rumble" width=75%>
+
 MASH-OFF: Monster Rumble is a local multiplayer twinstick party game about knocking your opponents out of an arena using various cartoony weapons while they try to do the same to you.
 
 Repository: [[Link]](https://github.com/LadyRonja/ArenaEject)
