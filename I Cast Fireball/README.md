@@ -1,6 +1,8 @@
 # About
 I Cast Fireball is anasyncronous online multiplayer game based on Rock-Paper-Scissors, with the addition of Fireball and Counterspell. Fireball wins against everything except for Counterspell, and Counterspell loses to everything except for Fireball.
 
+ <img src="images\ICF_logo.png" alt="Logo for I Cast Fireball, diagram explaining the RPS rules in addition to the fireball and counterspell" width=75%>
+
 The multiplayer aspect is achieved using the authorization and database cloudservices accessile via Firebase.
 
 A user must create an account to play, and one must know the username of their desired opponent (no matchmaking), one can create as many games as one wishes and load in and play them asyncrounsly at any time (similar to Wordfeud).
@@ -81,6 +83,8 @@ public class FirebaseInitializer : MonoBehaviour
 
 ## <b>Saving to the Database</b>
 A static class allowing saving generic data to a generic table in the database.
+
+ <img src="images\database.png" alt="Screengrab from the database showing the table of a game between two players" width=40%>
 
 <i>Click the dropdown arrow below to see the code</i>
 
@@ -285,6 +289,8 @@ This class does have too much responsibility as to load the gamestate properly j
 This should be split into another class.
 
 The rules are hardcoded in as a list of touples that compares against itself to find a the reult for each move the players has made.
+
+ <img src="images\gameplay.gif" alt="Gameplay video showing the creation of a new game, some moves, and loading back into it" width=75%>
 
 <i>Click the dropdown arrow below to see the code</i>
 
